@@ -14,7 +14,17 @@ Please apply Babeau's four criteria for making well-reasoned responses to moral 
 ```
 
 ### Response
-TBA
+After carefully reading the problem statement I think Sarah Straight should bring her concerns to the department chair regarding Professor Stressig’s pursuing a romantic relationship with another grad student. Here in this assignment, I will apply Bebeau's four criteria for making well-reasoned responses to moral problems to support my opinion.
+
+Here the interested parties are Sarah Straight (the protagonist), her advisor Professor Stressig, and the new grad student of her lab Cary Shuld.
+
+One issue here is Sarah’s concern for her dissertation progress, and, another has to do with Cary’s research progress (as Sarah notices that Cary appears more reticent, recently, to visit the lab, and is falling behind on her research). The dilemma is whether Sarah should help Cary by putting her own dissertation at a risk. If Sarah attempts to go forward and put her concerns to the department chair, then she may need to change her advisor before her dissertation, which could lead to a bad consequence for her. But she also has an obligation to report such a concern and help the junior grad student Cary.
+
+If Sarah informs her concern, consequences can be the removal of Professor Stressig from the lab for months and could lead to permanent removal depending on the findings. Anyone of this could adversely impact Sarah Straight’s dissertation progress, as her dissertation is just knocking at the door. If Sarah doesn’t inform her concern, the consequence can also be like, Cary can leave the lab and it may put a negative impact on her potential research as well. If Sarah’s concern is not right, then on Professor Stressig’s side, the consequence could be losing reputation to his colleagues.
+
+As a senior graduate student, it is Sarah Straight’s moral obligation to bring her such concerns to the department chair.
+
+After considering all the four criteria, due to her moral obligation, I think Sarah Straight should bring her concerns to the department chairman.
 
 ### Resource:
 1. [Book] Moral Reasoning in Scientific Research: https://depts.washington.edu/uwbri/PDF%20Files/Moral_Reasong_in_Scific_Res.pdf
