@@ -1,4 +1,4 @@
-# Developing a Well-Reasoned Response to a Moral Problem in Scientific Research1
+## Apply ORI's guidance regarding the obligations of complainants in research misconduct cases
 
 ### Problem Statement
 

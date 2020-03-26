@@ -1,4 +1,4 @@
-# Developing a Well-Reasoned Response to a Moral Problem in Scientific Research1
+## Apply Babeau's criteria for making well-reasoned responses to moral problems
 
 ### Problem Statement
 
