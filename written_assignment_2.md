@@ -3,9 +3,28 @@
 ### Problem Statement
 
 ```
-Please apply ORI's guidance regarding the obligations of complainants in research misconduct cases and Babeau's guidance on how to make a well-reasoned response to an ethical problem to assess the postdoc's response to the issue described in the hypo below.  Discuss what ethical or regulatory breaches the postdoc engaged in, to the extent applicable, and provide your thoughts on how the postdoc may have more ethically addressed the same concerns.  Discuss what obligations, if any, Assistant Professor Upright has in this scenario. Please be mindful of the two-page limit for your response:
+Please apply ORI's guidance regarding the obligations of complainants in research misconduct cases 
+and Babeau's guidance on how to make a well-reasoned response to an ethical problem to assess the 
+postdoc's response to the issue described in the hypo below. Discuss what ethical or regulatory 
+breaches the postdoc engaged in, to the extent applicable, and provide your thoughts on how the 
+postdoc may have more ethically addressed the same concerns. Discuss what obligations, if any, 
+Assistant Professor Upright has in this scenario. Please be mindful of the two-page limit for your 
+response:
 
-Professor Murky asks her postdoc to run some experiments related to research first published when Professor Murky worked at another university. Although the postdoc runs the same experiments described in the former publications, she is unable to replicate the results. She shares her results with Professor Murky who becomes agitated and accuses the postdoc of incompetence. Professor Murky, with publication deadlines looming, takes over the postdoc’s assigned research and ultimately reports results that are consistent with the prior publications.  The postdoc discusses her concerns with several colleagues in the department, accusing Professor Murky of data falsification.  Rumors begin to swirl, and, as a result, colleagues within the department are hesitant to engage Professor Murky in other research endeavors.  Assistant Professor Upright learns of the concerns and where they originated, and suggests that the postdoc report them to the appropriate University authorities who handle research misconduct allegations.  The postdoc is concerned about the impact such a report could have on her own reputation and chooses not to do so; instead, she submits an anonymous complaint regarding her concerns to the publication in which Professor Murky's research appeared, outlining her concerns.
+Professor Murky asks her postdoc to run some experiments related to research first published when 
+Professor Murky worked at another university. Although the postdoc runs the same experiments described 
+in the former publications, she is unable to replicate the results. She shares her results with 
+Professor Murky who becomes agitated and accuses the postdoc of incompetence. Professor Murky, 
+with publication deadlines looming, takes over the postdoc’s assigned research and ultimately 
+reports results that are consistent with the prior publications. The postdoc discusses her concerns 
+with several colleagues in the department, accusing Professor Murky of data falsification. Rumors 
+begin to swirl, and, as a result, colleagues within the department are hesitant to engage Professor 
+Murky in other research endeavors. Assistant Professor Upright learns of the concerns and where 
+they originated, and suggests that the postdoc report them to the appropriate University authorities 
+who handle research misconduct allegations. The postdoc is concerned about the impact such a report 
+could have on her own reputation and chooses not to do so; instead, she submits an anonymous complaint 
+regarding her concerns to the publication in which Professor Murky's research appeared, outlining 
+her concerns.
 ```
 
 ### Response

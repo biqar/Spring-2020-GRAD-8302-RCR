@@ -9,8 +9,8 @@ donate $50 million toward the development of a research center that would be bui
 by the donor. Shortly before announcing the donation, the donor sponsored a research grant to fund 
 emissions research to be conducted by a team of Big Ambition researchers, one of whom had, on 
 occasion, served as an independent contractor, advising the donor on its compliance with emissions 
-regulations and fuel efficiency standards.  This faculty member was identified as the Principal 
-Investigator on the grant.  The sponsored research focuses on (1) whether the engines used by the 
+regulations and fuel efficiency standards. This faculty member was identified as the Principal 
+Investigator on the grant. The sponsored research focuses on (1) whether the engines used by the 
 sponsor complied with current federal emissions standards, (2) the environmental impact of the 
 engines, and (3) recommendation for industry optimization plans to address future environmental 
 regulations.
