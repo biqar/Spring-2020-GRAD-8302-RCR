@@ -5,11 +5,16 @@
 ```
 This is the last written assignment, before your final!  
 
-As noted in your reading material, the ICMJE came up with guidelines for determining whether awarding authorship is appropriate. Per those guidelines, authorship credit is considered honorary if:
-
+As noted in your reading material, the ICMJE came up with guidelines for determining whether 
+awarding authorship is appropriate. Per those guidelines, authorship credit is considered 
+honorary if:
     1) An author did not meet these three criteria:
-        (a) “conceiving and designing the work,” “analysing and interpreting the data,” or “collecting data or other material” (we included data collection as an acceptable criterion for authorship because the ICMJE had added this to their guidelines before we conducted this study)
-        (b) “writing the manuscript or part of the manuscript” or “revising the manuscript to make important changes in content”
+        (a) “conceiving and designing the work,” “analysing and interpreting the data,” or 
+            “collecting data or other material” (we included data collection as an acceptable 
+            criterion for authorship because the ICMJE had added this to their guidelines before 
+            we conducted this study)
+        (b) “writing the manuscript or part of the manuscript” or “revising the manuscript to 
+            make important changes in content”
         (c) “approving the final version of the manuscript”
     2) An author did not “feel comfortable explaining the major conclusions” of the article
     3) An author performed “only one function, and nothing else” from a list of 17 activities: 
@@ -29,12 +34,17 @@ As noted in your reading material, the ICMJE came up with guidelines for determi
         (n) writing the manuscript or part of the manuscript;
         (o) approving the manuscript before submission to a journal;
         (p) revising the manuscript or making important changes in content;
-        (q) reviewing page proofs or the journal’s edited version of the manuscript (see questions 8, 9, and revised question 11 in the study questionnaire on bmj.com).
+        (q) reviewing page proofs or the journal’s edited version of the manuscript 
+            (see questions 8, 9, and revised question 11 in the study questionnaire on bmj.com).
 
 Your writing should cover the following:
-    (i) Please share your thoughts on the criteria ICMJE has established and whether you believe they are appropriate.  
-    (ii) Why is honorary authorship an ethical issue?  Please explain how awarding unmerited authorship erodes research integrity.
-    (iii) If your supervisor asked you to name him or her as first author despite minimum contribution, how would you respond? What is your recourse at UNC Charlotte when a supervisor makes such a request?
+    (i) Please share your thoughts on the criteria ICMJE has established and whether you 
+        believe they are appropriate.  
+    (ii) Why is honorary authorship an ethical issue?  Please explain how awarding unmerited 
+        authorship erodes research integrity.
+    (iii) If your supervisor asked you to name him or her as first author despite minimum 
+        contribution, how would you respond? What is your recourse at UNC Charlotte when 
+        a supervisor makes such a request?
 ```
 
 ### Response
