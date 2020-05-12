@@ -3,71 +3,124 @@
 ### Problem Statement
 
 ```
-On March 31st, the RIO received an email from Dr. Konfliktus, a Professor in the Department of Forest Ecology, alleging that his colleague in the Department, Dr. Murky, had violated the university’s research misconduct policy by:
+On March 31st, the RIO received an email from Dr. Konfliktus, a Professor in the Department of 
+Forest Ecology, alleging that his colleague in the Department, Dr. Murky, had violated the 
+university’s research misconduct policy by:
 
-(1) Failing to acknowledge the extensive contributions of collaborators, including Dr. Konfliktus, in several of his publications regarding bird habitat; and
+(1) Failing to acknowledge the extensive contributions of collaborators, including Dr. Konfliktus, 
+in several of his publications regarding bird habitat; and
 
+(2) Making inaccurate representations in publications and recorded interviews about the source of 
+recordings he made, pursuant to an NSF-funded grant, which recordings he alleged evidenced a 
+decline in bird diversity in a forest that had undergone clearcutting in the last year. 
 
-(2) Making inaccurate representations in publications and recorded interviews about the source of recordings he made, pursuant to an NSF-funded grant, which recordings he alleged evidenced a decline in bird diversity in a forest that had undergone clearcutting in the last year. 
+According to Dr. Konfliktus, Dr. Murky purported to have taken recordings of the same forest one 
+year before and one year after clearcutting.  The recordings played by Dr. Murky in support of 
+his findings in recorded interviews with Dr. Murky were profoundly different.  The recording that 
+Dr. Murky said he took before clearcutting was a cacophonous mix of multiple bird songs, while there 
+was hardly a peep to be heard in the second recording.
 
-According to Dr. Konfliktus, Dr. Murky purported to have taken recordings of the same forest one year before and one year after clearcutting.  The recordings played by Dr. Murky in support of his findings in recorded interviews with Dr. Murky were profoundly different.  The recording that Dr. Murky said he took before clearcutting was a cacophonous mix of multiple bird songs, while there was hardly a peep to be heard in the second recording.
+Dr. Konfliktus alleges that the recording allegedly taken after clearcutting must have been taken 
+from another location because a train whistle could be heard in the background, and the location 
+Dr. Murky purported to be recording was too far away from railroad tracks for that to be possible.
 
-Dr. Konfliktus alleges that the recording allegedly taken after clearcutting must have been taken from another location because a train whistle could be heard in the background, and the location Dr. Murky purported to be recording was too far away from railroad tracks for that to be possible.
+The RIO determined that at least some of the alleged acts could constitute research misconduct, 
+if substantiated.  The RIO then immediately sequestered relevant electronic records by placing 
+a hold on all Dr. Murky’s electronic files.  He also met with Dr. Murky to let him know about 
+the complaint and advised him of the need to gather additional evidence, including all publications 
+in which he had collaborated with Dr. Konfliktus and the underlying data and related communications 
+from collaborators.  He also sought all data underlying the NSF funded study regarding bird diversity 
+after clear cutting. 
 
-The RIO determined that at least some of the alleged acts could constitute research misconduct, if substantiated.  The RIO then immediately sequestered relevant electronic records by placing a hold on all Dr. Murky’s electronic files.  He also met with Dr. Murky to let him know about the complaint and advised him of the need to gather additional evidence, including all publications in which he had collaborated with Dr. Konfliktus and the underlying data and related communications from collaborators.  He also sought all data underlying the NSF funded study regarding bird diversity after clear cutting. 
+At the time of the meeting, Dr. Murky let the RIO know he would provide the recordings if he could, 
+but had misplaced them recently.  He assured the RIO that he had taken both recordings from the same 
+location, and shared an online map of the site, which demonstrated proximity of a train track.  He 
+also shared that Dr. Konfliktus had recently received a grant from the timber company that was 
+responsible for the clearcutting. He suspected that the company funded Dr. Konfliktus’ research in 
+hopes of countering Dr. Murky’s findings, because the company has suffered severe PR setbacks in the 
+community since Dr. Murky’s research was published.  Dr. Murky shared a copy of a newspaper article 
+reporting substantial layoffs at the timber company.
 
-At the time of the meeting, Dr. Murky let the RIO know he would provide the recordings if he could, but had misplaced them recently.  He assured the RIO that he had taken both recordings from the same location, and shared an online map of the site, which demonstrated proximity of a train track.  He also shared that Dr. Konfliktus had recently received a grant from the timber company that was responsible for the clearcutting. He suspected that the company funded Dr. Konfliktus’ research in hopes of countering Dr. Murky’s findings, because the company has suffered severe PR setbacks in the community since Dr. Murky’s research was published.  Dr. Murky shared a copy of a newspaper article reporting substantial layoffs at the timber company.
+Because the RIO determined that at least some of the allegations could constitute a research 
+misconduct violation, he established an inquiry committee to review the allegations.  You have 
+been selected as the chair of the committee and have just completed a review of the foregoing 
+information with your colleagues on the committee.  The committee has also interviewed Dr. Konfliktus 
+and Dr. Murky.  During Dr. Konfliktus’ interview, he confirmed that he had received a small grant 
+from a timber company.  He shared the grant documents, which indicated that the timber company was 
+not the same company that had undertaken the clearcutting that was the subject of Dr. Murky’s research. 
+However, he also confirmed that the company was interested in his evaluating the accuracy of 
+Dr. Murky’s representations about the impact of clearcutting on forest species diversity.
 
-Because the RIO determined that at least some of the allegations could constitute a research misconduct violation, he established an inquiry committee to review the allegations.  You have been selected as the chair of the committee and have just completed a review of the foregoing information with your colleagues on the committee.  The committee has also interviewed Dr. Konfliktus and Dr. Murky.  During Dr. Konfliktus’ interview, he confirmed that he had received a small grant from a timber company.  He shared the grant documents, which indicated that the timber company was not the same company that had undertaken the clearcutting that was the subject of Dr. Murky’s research.  However, he also confirmed that the company was interested in his evaluating the accuracy of Dr. Murky’s representations about the impact of clearcutting on forest species diversity.
+Dr. Murky was still unable to locate the recordings at the time of his interview with the committee. 
+Dr. Murky was similarly unable to provide the RIO or the committee with the underlying research data 
+and communications for the publications he had collaborated on with Dr. Konfliktus.  Although he 
+conceded being very poorly organized, he strongly disputed any wrong-doing.  He shared the map he 
+had shared with the RIO, evidencing the proximity of the relevant location to train tracks, and he 
+also shared videos of his interviews in which he discussed and played the now-missing recordings.
 
-Dr. Murky was still unable to locate the recordings at the time of his interview with the committee.  Dr. Murky was similarly unable to provide the RIO or the committee with the underlying research data and communications for the publications he had collaborated on with Dr. Konfliktus.  Although he conceded being very poorly organized, he strongly disputed any wrong-doing.  He shared the map he had shared with the RIO, evidencing the proximity of the relevant location to train tracks, and he also shared videos of his interviews in which he discussed and played the now-missing recordings.
+You have been asked to draft an Inquiry Report.  The report should address the following:
 
- You have been asked to draft an Inquiry Report.  The report should address the following:
+ (1) Whether Dr. Konfliktus has alleged acts that, if substantiated, may violate the research 
+ misconduct policy. (Please specifically identify the type of research misconduct alleged and 
+ also address whether or in what circumstances failure to acknowledge the contribution of 
+ collaborators in a publication may constitute research misconduct under UNC Charlotte’s policy.)
+ (2) Whether and how Dr. Konfliktus’ receipt of research funding from a timber company impacts your analysis.
+ (3) Whether you believe the matter should be referred to a full investigation and the reasons for 
+ your determination.
 
-Whether Dr. Konfliktus has alleged acts that, if substantiated, may violate the research misconduct policy. (Please specifically identify the type of research misconduct alleged and also address whether or in what circumstances failure to acknowledge the contribution of collaborators in a publication may constitute research misconduct under UNC Charlotte’s policy.)
-Whether and how Dr. Konfliktus’ receipt of research funding from a timber company impacts your analysis.
-Whether you believe the matter should be referred to a full investigation and the reasons for your determination.
-Please draft your Inquiry Report consistent with the guidelines provided previously, but included again for your reference below.
+Please draft your Inquiry Report consistent with the guidelines provided previously, but included 
+again for your reference below.
 
-As noted in class, it is less important whether you recommend the matter for full investigation than it is to demonstrate an understanding of the applicable standards that apply to the review, including, for example, the applicable definition/s of research misconduct from UNC Charlotte’s Research Misconduct Policy, an understanding of the type of research misconduct at issue in this scenario, and the applicable evidentiary standard that applies at the Inquiry phase.
+As noted in class, it is less important whether you recommend the matter for full investigation 
+than it is to demonstrate an understanding of the applicable standards that apply to the review, 
+including, for example, the applicable definition/s of research misconduct from UNC Charlotte’s 
+Research Misconduct Policy, an understanding of the type of research misconduct at issue in this 
+scenario, and the applicable evidentiary standard that applies at the Inquiry phase.
 
 Please limit the report to three pages, using 12 point Times New Roman font.
 
 Guidelines:
-
- Below is a sample outline for your Inquiry Report.
+===========
+Below is a sample outline for your Inquiry Report.
 
 Introduction
-
-This section should include a short narrative identifying the parties to the proceeding; their positions within the University; a brief overview of the facts and circumstances leading to the Complaint; and the process conducted by the Inquiry Committee leading to the Inquiry Report.
+------------
+This section should include a short narrative identifying the parties to the proceeding; their 
+positions within the University; a brief overview of the facts and circumstances leading to the 
+Complaint; and the process conducted by the Inquiry Committee leading to the Inquiry Report.
  
 
 Applicable Policies and Legal Standards
-
-Statement of any relevant University policies implicated by the allegations.
-g. University Policy 309 and the Supplemental Procedures
-This section should NOT be a statement of facts.
+---------------------------------------
+ (1) Statement of any relevant University policies implicated by the allegations. (e. g. 
+ University Policy 309 and the Supplemental Procedures)
+ (2) This section should NOT be a statement of facts.
  
 
 Facts & Analysis
-
-Prepare a clear statement of allegations made against the Respondent. (i.e. what has been specifically alleged by the Complainant?)
-Summarize the context and circumstances of the allegations brought forth by the Complainant (i.e. more complete narrative and timeline from your introduction)
-Explain what factual evidence was collected to inquire into the Complainant’s allegations. Summarize the substance of witness interviews, etc.
-Apply the facts of the research misconduct file to the relevant policies and legal standards identified in the previous section.
-Analyze all available evidence (Does evidence support the allegation? Is any evidence contradictory? Has some evidence been omitted? Is more evidence needed to reach a conclusion?)
-Explain how the facts may or may not give rise to the level of research misconduct.
+----------------
+ (1) Prepare a clear statement of allegations made against the Respondent. (i.e. what has been 
+ specifically alleged by the Complainant?)
+ (2) Summarize the context and circumstances of the allegations brought forth by the Complainant 
+ (i.e. more complete narrative and timeline from your introduction)
+ (3) Explain what factual evidence was collected to inquire into the Complainant’s allegations. 
+ Summarize the substance of witness interviews, etc.
+ (4) Apply the facts of the research misconduct file to the relevant policies and legal standards 
+ identified in the previous section.
+ (5) Analyze all available evidence (Does evidence support the allegation? Is any evidence 
+ contradictory? Has some evidence been omitted? Is more evidence needed to reach a conclusion?)
+ (6) Explain how the facts may or may not give rise to the level of research misconduct.
  
 
 Recommendation(s)
-
-Clear and succinct recommendation of the committee to the decision maker (i.e. Vice Chancellor) on each allegation.
- 
+-----------------
+Clear and succinct recommendation of the committee to the decision maker (i.e. Vice Chancellor) on each 
+allegation.
 
 Explain how the committee’s analysis lead to the recommendation
- 
 
-g. Based on…….[summary of analysis] the Inquiry Committee believes that there is/is not sufficient information to warrant further review pursuant to a research misconduct investigation.
+g. Based on ... [summary of analysis] ... the Inquiry Committee believes that there is/is not sufficient 
+information to warrant further review pursuant to a research misconduct investigation.
 ```
 
 ### Response
