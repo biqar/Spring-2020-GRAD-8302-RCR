@@ -6,3 +6,4 @@ This repository will contains the writing assignments of course GRAD 6302/8302: 
 2. [Written Assignment 2](https://github.com/biqar/Spring-2020-GRAD-8302-RCR/blob/master/written_assignment_2.md): Apply ORI's guidance regarding the obligations of complainants in research misconduct cases
 3. [Written Assignment 3](https://github.com/biqar/Spring-2020-GRAD-8302-RCR/blob/master/written_assignment_3.md): Identifying conflicts-of-interest
 4. [Written Assignment 4](https://github.com/biqar/Spring-2020-GRAD-8302-RCR/blob/master/written_assignment_4.md): ICMJE guideline for honorary authorship
+4. [Written Assignment [Final]](https://github.com/biqar/Spring-2020-GRAD-8302-RCR/blob/master/written_assignment_final.md): Inquiry Report
